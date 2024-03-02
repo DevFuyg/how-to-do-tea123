@@ -1,0 +1,23 @@
+{
+  "name": "tea-b4b-testnet",
+  "version": "1.0.0",
+  "description": "testnet tea second time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DevFuyg/how-to-do-tea123.git"
+  },
+  "dependencies": {
+    "how-to-do-tea": "1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevFuyg/how-to-do-tea123/issues"
+  },
+  "homepage": "https://github.com/DevFuyg/how-to-do-tea123#readme"
+}
