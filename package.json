@@ -1,6 +1,6 @@
 {
   "name": "tea-b4b-testnet",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "testnet tea second time",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,8 @@
   },
   "dependencies": {
     "how-to-do-tea": "1.0.0",
-    "minti_fulkerson": "0.1.4"
+    "minti_fulkerson": "0.1.4",
+    "tea-ponos": "1.0.1"
   },
   "author": "",
   "license": "ISC",
